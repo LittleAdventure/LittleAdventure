@@ -1,0 +1,5 @@
+- 👋 Hi there, I’m @LittleAdventure
+- I make text based adventure games
+- 🌱 I’m currently learning how to make them more advanced
+- 💞️ pls let me know if you liked it and any suggestions
+- 📫 How to reach me ...
